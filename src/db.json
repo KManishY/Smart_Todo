@@ -1,0 +1,17 @@
+{
+	"auth": [
+		{
+			"register": [
+				{
+					"name": "Manish",
+					"email": "manish@gmail.com",
+					"password": "123",
+					"username": "manish123",
+					"mobile": 0,
+					"description": "sala kuch smj nii aa rha h"
+				}
+			],
+			"login": [{ "username": "", "password": "" }]
+		}
+	]
+}
